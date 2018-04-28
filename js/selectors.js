@@ -1,0 +1,3 @@
+function paragraphSelector () {
+  return $('p');
+}
